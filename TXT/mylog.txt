@@ -14,3 +14,4 @@ ZCZC W00   5 L03 GitHub related (Update Log)
 ZCZC W00  20 L32 YouTube: study, etc.
 ZCZC W00   5 L15 Assignment #05
 ZCZC W00 180 L15 Assignment #05
+ZCZC W00  60 L15 Assignment #05
