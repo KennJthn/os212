@@ -19,6 +19,8 @@ ZCZC W01 100 L02 ZOOM meetings related (Senin)
 ZCZC W01 100 L02 ZOOM meetings related (Kamis)
 ZCZC W01  60 L11 Assignment #01
 ZCZC W01 185 L12 Assignment #02
+ZCZC W01 120 L08 AsDos: asking, etc.
 ZCZC W01 120 L13 Assignment #03
 ZCZC W01  90 L14 Assignment #04
 ZCZC W01  60 L15 Assignment #05
+ZCZC W01  90 L00 General, etc. (Group study)
