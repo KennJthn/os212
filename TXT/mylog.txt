@@ -15,3 +15,10 @@ ZCZC W00  20 L32 YouTube: study, etc.
 ZCZC W00   5 L15 Assignment #05
 ZCZC W00 180 L00 General, etc. (Research tentang OS. Edit sebelumnya: L15 Assignment #05)
 ZCZC W00  60 L15 Assignment #05
+ZCZC W01 100 L02 ZOOM meetings related (Senin)
+ZCZC W01 100 L02 ZOOM meetings related (Kamis)
+ZCZC W01  60 L11 Assignment #01
+ZCZC W01 185 L12 Assignment #02
+ZCZC W01 120 L13 Assignment #03
+ZCZC W01  90 L14 Assignment #04
+ZCZC W01  60 L15 Assignment #05
