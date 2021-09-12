@@ -6,5 +6,5 @@ Please don't be too harsh on my GitHub Page :')
 [Kenneth's Log](TXT/mylog.txt)
 
 #### Important Links:
-* [Regex Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheepgrep.php)
+* [Regex Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php)
 * [Make a donut with C](https://www.a1k0n.net/2011/07/20/donut-math.html)
