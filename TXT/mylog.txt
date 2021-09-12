@@ -24,3 +24,4 @@ ZCZC W01 120 L13 Assignment #03
 ZCZC W01  90 L14 Assignment #04
 ZCZC W01  60 L15 Assignment #05
 ZCZC W01  90 L00 General, etc. (Group study)
+ZCZC W01   5 L08 Asdos: asking, etc.
