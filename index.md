@@ -4,7 +4,7 @@ Please don't be too harsh on my GitHub Page :')
 
 ## Operating Systems C Odd 2021/2022
 [Kenneth's Log](TXT/mylog.txt)\
-[Links](/LINKS/)
+[Links](LINKS)\
 [Repository](https://github.com/KennJthn/os212)
 
 #### Other Links:
