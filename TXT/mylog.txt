@@ -41,3 +41,5 @@ ZCZC W02  20 L09 Assignment in General (Assignments other than the ones listed)
 ZCZC W02 100 L02 ZOOM meetings related (Senin)
 ZCZC W02  80 L02 ZOOM meetings related (Kamis)
 ZCZC W02  20 L22 Quiz
+ZCZC W02  60 L12 Assignment #02
+ZCZC W02  60 L11 Assignment #01
