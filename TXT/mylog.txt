@@ -66,3 +66,14 @@ ZCZC W04   5 L18 Assignment #08
 ZCZC W04   5 L19 Assignment #09
 ZCZC W04 100 L02 ZOOM meetings related (Senin)
 ZCZC W04 110 L02 ZOOM meetings related (Kamis)
+ZCZC W05 100 L02 ZOOM meetings related (Senin)
+ZCZC W05  80 L02 ZOOM meetings related (Kamis)
+ZCZC W05 120 L11 Assignment #01
+ZCZC W05  60 L12 Assignment #02
+ZCZC W05  20 L13 Assignment #03
+ZCZC W05 120 L14 Assignment #04
+ZCZC W05  30 L15 Assignment #05
+ZCZC W05   5 L16 Assignment #06 (Just thinking. I have no feedback)
+ZCZC W05  30 L17 Assignment #07
+ZCZC W05   5 L18 Assignment #08
+ZCZC W05   5 L19 Assignment #09
