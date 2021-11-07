@@ -13,3 +13,7 @@ Detailed explanation of bash scripting. Also explains about [grep, sed, and awk]
 4. [The Heap: How do use-after-free exploits work? - bin 0x16](https://youtu.be/ZHghwsTRyzQ)<br>Use-After-Free Vulnerability example. This video has helped me understand vulnerabilities while using pointers
 5. [How to Encrypt and Decrypt PGP Message in Linux ?](https://youtu.be/CftfUnQc3bs)<br>
 It is straight forward. An 11 minutes video that explains the basics about how to decrypt and/or encrypt PGP message
+6. [The fork() function in C](https://youtu.be/cex9XrZCU14)<br>
+How to use fork (basic). I learned that fork() doesn't necessarily have to be "powers of 2" processes
+7. [Shared Memory Systems](https://youtu.be/uHtzOFwgD74)<br>
+Some more explanation about shared memory

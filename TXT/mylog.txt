@@ -85,4 +85,14 @@ ZCZC W06  30 L12 Assignment #02
 ZCZC W06  10 L15 Assignment #05
 ZCZC W06  20 L17 Assignment #07
 ZCZC W06   5 L18 Assignment #08
+ZCZC W07 100 L02 ZOOM meetings related (Senin)
+ZCZC W07 100 L02 ZOOM meetings related (Kamis)
+ZCZC W07 120 L11 Assignment #01
+ZCZC W07 120 L12 Assignment #02
+ZCZC W07  60 L13 Assignment #03
+ZCZC W07 110 L14 Assignment #04
+ZCZC W07  35 L15 Assignment #05
+ZCZC W07   5 L16 Assignment #06 (No TIPS yet)
+ZCZC W07  20 L17 Assignment #07
+ZCZC W07   5 L18 Assignment #08
 ZCZC W06   5 L19 Assignment #09
