@@ -20,4 +20,4 @@ Some more explanation about shared memory
 8. [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
 Scheduling basics in case you haven't learned any like me
 9. [What's the difference between CPU time, user CPU time and system CPU time?](https://www.quora.com/Whats-the-difference-between-CPU-time-user-CPU-time-and-system-CPU-time)<br>
-Exactly what the title said :). Daniel Tso's answer helped me understand the difference between Real, User, and System time
+This is a Quora forum discussion, but i agree with Tso's reply about the question being the difference between Real, User, and System time. Daniel Tso's answer helped me understand the difference between Real, User, and System time
