@@ -21,3 +21,5 @@ Some more explanation about shared memory
 Scheduling basics in case you haven't learned any like me
 9. [What's the difference between CPU time, user CPU time and system CPU time?](https://www.quora.com/Whats-the-difference-between-CPU-time-user-CPU-time-and-system-CPU-time)<br>
 This is a Quora forum discussion, but i agree with Tso's reply about the question being the difference between Real, User, and System time. Daniel Tso's answer helped me understand the difference between Real, User, and System time
+10. [RAID](https://www.prepressure.com/library/technology/raid)<br>
+I have given up trying to understand this week's materials, but i hope this link helps because i recognize some words there from class
